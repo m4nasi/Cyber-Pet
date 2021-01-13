@@ -1,0 +1,15 @@
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\obj\Debug\ExperimentCyberPet.csprojAssemblyReference.cache
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\obj\Debug\MainWindow.g.cs
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\obj\Debug\App.g.cs
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\obj\Debug\ExperimentCyberPet_MarkupCompile.cache
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\obj\Debug\ExperimentCyberPet_MarkupCompile.lref
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\bin\Debug\ExperimentCyberPet.exe.config
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\bin\Debug\ExperimentCyberPet.exe
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\bin\Debug\ExperimentCyberPet.pdb
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\obj\Debug\MainWindow.baml
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\obj\Debug\ExperimentCyberPet.g.resources
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\obj\Debug\ExperimentCyberPet.Properties.Resources.resources
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\obj\Debug\ExperimentCyberPet.csproj.GenerateResource.cache
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\obj\Debug\ExperimentCyberPet.csproj.CoreCompileInputs.cache
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\obj\Debug\ExperimentCyberPet.exe
+C:\Users\Manas\source\repos\ExperimentCyberPet\ExperimentCyberPet\obj\Debug\ExperimentCyberPet.pdb
